@@ -1,0 +1,12 @@
+{
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity-va.hover": false,
+  "solidity-va.outline.enable": false,
+  "solidity-va.outline.decorations": false,
+  "solidity-va.outline.extras": false,
+  "solidity-va.parser.parseImports": false,
+  "solidity-va.overviewruler.decorations.enable": false,
+  "solidity-va.outline.pragmas.show": false,
+  "solidity-va.outline.imports.show": false
+}
